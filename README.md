@@ -8,5 +8,5 @@
 
 分享以Python语言为基础的各种技术，例如如PyQt软件开发、Python基本功、深度学习、机器视觉等等。
 
-![超酷的Python](./toocoolPython.png)
+![超酷的Python](./blob/main/image/toocoolPython.png)
 
