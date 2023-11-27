@@ -20,9 +20,8 @@
 
 如果我的东西对你很有用你又恰好是个富哥的话，欢迎对我进行打赏！一分两分，留着结婚！
 
-![微信支付](https://github.com/BeihangHuiye/MyTypechoBlog/assets/148823447/f253e516-a6d3-4cba-85de-96e80d39a4a6)
+![感谢打赏](https://github.com/BeihangHuiye/MyTypechoBlog/assets/148823447/1bd62ded-e035-41cf-9daf-9203d9732f27)
 
-![支付宝](https://github.com/BeihangHuiye/MyTypechoBlog/assets/148823447/e8a0966a-96bd-47ee-b61a-94911132ae8e)
 
 
 
